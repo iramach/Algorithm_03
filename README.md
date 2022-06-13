@@ -28,4 +28,4 @@
 # Perform Test with Test data
 ![image](https://user-images.githubusercontent.com/54806994/173408423-3cd70153-2138-4255-bf5f-c868dda038b4.png)
 # 4. Images and corresponding probability that predicted Right
-![image](https://user-images.githubusercontent.com/54806994/173408714-8095708b-0a7c-410a-bc4a-ce7d7891a8ed.png)
+![image](https://user-images.githubusercontent.com/54806994/173409009-5172e1d7-0c89-4a42-9fe0-4bad895751dd.png)
